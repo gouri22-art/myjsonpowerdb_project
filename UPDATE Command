@@ -1,0 +1,17 @@
+{
+    "token": "90931336|-31949322861328052|90950628",
+    "cmd": "UPDATE",
+    "dbName": "Student",
+    "rel": "Student-Rel",
+    "jsonStr": {
+       "1":{
+        "name": "Soniya Sharma"
+
+      },
+       "2":{
+        "id":2,
+        "mobileno": 9000876578
+      }
+       
+   }
+}
