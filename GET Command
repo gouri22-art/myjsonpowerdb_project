@@ -1,0 +1,12 @@
+{
+    "token": "90931336|-31949322861328052|90950628",
+    "dbName": "Student",
+    "cmd": "GET_BY_KEY",
+    "rel": "Student-Rel",
+    "createTime": true,
+    "updateTime": true,
+    "jsonStr": {
+        "email": "prajakta@gmail.com"
+    }
+
+}
