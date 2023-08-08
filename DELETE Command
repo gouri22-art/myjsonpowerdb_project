@@ -1,0 +1,9 @@
+{
+    "token": "90931336|-31949322861328052|90950628",
+    "cmd": "REMOVE",
+    "dbName": "Student",
+    "rel": "Student-Rel",
+    "record":1,
+    "jsonStr":{}
+  
+}
