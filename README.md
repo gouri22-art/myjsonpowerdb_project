@@ -4,3 +4,6 @@ Introduction to CRUD operation-
 2. GET Command : It is an IRL(JPDB INDEX RETRIVAL LANGUAGE). It helps to get data from the database.
 3. UPDATE Command : It is also an IML which helps to update/modified existing record in the database.
 4. Delete Command : It is also an IML that used to remove or delete the record.
+
+Serverless async AJAX call using JPDB
+1.Creating web project in Netbeans.
